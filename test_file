@@ -2,3 +2,5 @@ This test file has been edited relative to the original version of the file.
 The file will be included in a snapshot that differs from the latest commit
 of "branch_testing" to diverge the version history.
 
+Add line to illustrate divergent history.
+
