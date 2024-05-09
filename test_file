@@ -3,3 +3,10 @@ included in two divergent branches with different contents in each branch.
 The remaining content in this file (this comment) was added as a merge conflict
 resolution when merging the branches.
 
+PATCHING
+
+This second hunk of text was added to practise patching changes to manage what
+is being included in a commit. The goal is to add this hunk of text to the
+index in preparation of the next commit. This hunk should be the last piece of
+text in the following commit.
+
